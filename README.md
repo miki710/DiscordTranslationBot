@@ -1,0 +1,2 @@
+# DiscordTranslationBot
+Discord文字起こしボット
